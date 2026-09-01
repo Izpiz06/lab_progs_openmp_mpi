@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[]) {
 
-    int nPoints = 10000000;
+    int nPoints = 1000000000;
     int nthreads = 8;
     double nInside = 0.0;
     double pi;
